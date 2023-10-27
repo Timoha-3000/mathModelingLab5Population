@@ -19,7 +19,7 @@ namespace mathModelingLab5Population
             double predator = 9;
 
             double timeStep = 0.01;
-            int steps = 2000;
+            int steps = 15000;
 
             List<double> preyList = new List<double>();
             List<double> predatorList = new List<double>();
